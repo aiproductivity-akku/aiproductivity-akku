@@ -12,10 +12,13 @@
 
 Bridging growth strategy with autonomous AI tools, multilingual voice interfaces, and Generative Engine Optimization.
 
- &nbsp;I'm currently working on **likhlo-ai (voice-first ledger) and LuciferAI (GEO citability studio)**  
- &nbsp;I'm currently learning **Advanced LLM multi-agent architectures &amp; Voice AI copilots**  
- &nbsp;I'm looking to collaborate on **Open-source GenAI tools, multilingual interfaces, and GEO tooling**  
- &nbsp;I'm looking for help with **Evaluating &amp; scaling real-time speech-to-text models**  
+&nbsp;I'm currently working on **likhlo-ai (voice-first ledger) and LuciferAI (GEO citability studio)**  
+
+&nbsp;I'm currently learning **Advanced LLM multi-agent architectures &amp; Voice AI copilots**  
+ 
+&nbsp;I'm looking to collaborate on **Open-source GenAI tools, multilingual interfaces, and GEO tooling**  
+ 
+&nbsp;I'm looking for help with **Evaluating &amp; scaling real-time speech-to-text models**  
 💬 &nbsp;Ask me about **Generative AI, FastAPI, Whisper, and Brand Strategy**  
  &nbsp;Fun fact: **Blending MBA business logic with full-stack AI engineering!**
 
